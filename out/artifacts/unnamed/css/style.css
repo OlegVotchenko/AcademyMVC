@@ -1,0 +1,19 @@
+table {
+    border-collapse: collapse;
+}
+
+td {
+    border: 1px solid black;
+    min-width: 50px;
+}
+
+.menuItem {
+    display: block;
+}
+
+#errorBlock {
+    position: absolute;
+    right: 40%;
+    width: 250px;
+    border: 1px solid black;
+}
